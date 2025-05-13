@@ -1,0 +1,50 @@
+﻿@using CareerPortal.Models
+@using Microsoft.AspNetCore.Components
+@using CareerPortal.Components
+
+@if (Listing == null || !Listing.Any())
+{
+    <div class="empty-state">
+        <p class="empty-title">No job listings found.</p>
+        <p class="empty-subtext">Create a new job listing to start managing your data below</p>
+        <button class="btn-create">Create Job</button>
+    </div>
+}
+
+else
+{
+    <div class="table-wrapper">
+        <table class="data-table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Email address</th>
+                    <th>Cellphone</th>
+                    <th>Address</th>
+                    <th>Sales value</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var job in Listing)
+
+                {
+                    <tr>
+                        <td>@job._id</td>
+                        <td>@job.title</td>
+                        <td>@job.contactEmail</td>
+                        <td>@job.company</td>
+                        <td>@job.location</td>
+                        <td>@job.salary</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+@code {
+    [Parameter]
+
+    public List<VacancyItem> Listing { get; set; } = new();
+}

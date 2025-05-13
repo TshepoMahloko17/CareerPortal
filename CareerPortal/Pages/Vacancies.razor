@@ -1,0 +1,54 @@
+﻿@using CareerPortal.Models
+@using CareerPortal.Services
+@using CareerPortal.Components
+@page "/vacancies"
+@inject VacancyDataProvider VacancyService
+
+<h2>Job Listings</h2>
+
+@if (vacancies == null)
+{
+    <p>Loading jobs...</p>
+}
+else if (!vacancies.Any())
+{
+    <div class="empty-state">
+        <p><strong>No job listings found.</strong></p>
+        <p>Create a new job listing to start managing your data below</p>
+        <button>Create job</button>
+    </div>
+}
+else
+{
+    <div class="toolbar">
+        <div>
+            <button>Save</button>
+            <button>+ New</button>
+            <button>Delete</button>
+            <button>Deactivate</button>
+        </div>
+        <div>
+            <button>Export</button>
+            <button>Import</button>
+        </div>
+    </div>
+
+    <VacancyTable Listing="vacancies" />
+}
+
+@code {
+    private List<VacancyItem>? vacancies;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            vacancies = await VacancyService.LoadVacanciesAsync();
+        }
+        catch (Exception ex)
+        {
+            Console.Error.WriteLine($"Error: {ex.Message}");
+            vacancies = new();
+        }
+    }
+}

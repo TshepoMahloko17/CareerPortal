@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|c:\\users\\mahlo\\onedrive\\documents\\source\\careerportal\\careerportal\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|solutionrelative:careerportal\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|c:\\users\\mahlo\\onedrive\\documents\\source\\careerportal\\careerportal\\services\\vacancydataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|solutionrelative:careerportal\\services\\vacancydataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|c:\\users\\mahlo\\onedrive\\documents\\source\\careerportal\\careerportal\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|solutionrelative:careerportal\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|c:\\users\\mahlo\\onedrive\\documents\\source\\careerportal\\careerportal\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|solutionrelative:careerportal\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|c:\\users\\mahlo\\onedrive\\documents\\source\\careerportal\\careerportal\\components\\vacancytable.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|solutionrelative:careerportal\\components\\vacancytable.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|c:\\users\\mahlo\\onedrive\\documents\\source\\careerportal\\careerportal\\pages\\vacancies.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|solutionrelative:careerportal\\pages\\vacancies.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|c:\\users\\mahlo\\onedrive\\documents\\source\\careerportal\\careerportal\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|solutionrelative:careerportal\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|c:\\users\\mahlo\\onedrive\\documents\\source\\careerportal\\careerportal\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|solutionrelative:careerportal\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|c:\\users\\mahlo\\onedrive\\documents\\source\\careerportal\\careerportal\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|solutionrelative:careerportal\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|c:\\users\\mahlo\\onedrive\\documents\\source\\careerportal\\careerportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|solutionrelative:careerportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|c:\\users\\mahlo\\onedrive\\documents\\source\\careerportal\\careerportal\\models\\vacancyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717D8BB5-F4BD-4D3B-9DF9-76505DAD3391}|CareerPortal\\CareerPortal.csproj|solutionrelative:careerportal\\models\\vacancyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "CareerPortal\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\wwwroot\\index.html",
+              "RelativeToolTip": "CareerPortal\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T18:18:02.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "CareerPortal\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\Pages\\Home.razor",
+              "RelativeToolTip": "CareerPortal\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:46:24.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\Program.cs",
+              "RelativeDocumentMoniker": "CareerPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\Program.cs",
+              "RelativeToolTip": "CareerPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:33:13.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\README.md",
+              "RelativeDocumentMoniker": "CareerPortal\\README.md",
+              "ToolTip": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\README.md",
+              "RelativeToolTip": "CareerPortal\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-12T20:32:15.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\index.html",
+              "RelativeDocumentMoniker": "CareerPortal\\index.html",
+              "ToolTip": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\index.html",
+              "RelativeToolTip": "CareerPortal\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-12T20:31:59.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\MainLayout.razor",
+              "RelativeDocumentMoniker": "CareerPortal\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\MainLayout.razor",
+              "RelativeToolTip": "CareerPortal\\MainLayout.razor",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:31:32.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VacancyDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\Services\\VacancyDataProvider.cs",
+              "RelativeDocumentMoniker": "CareerPortal\\Services\\VacancyDataProvider.cs",
+              "ToolTip": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\Services\\VacancyDataProvider.cs",
+              "RelativeToolTip": "CareerPortal\\Services\\VacancyDataProvider.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:30:29.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VacancyItem.cs",
+              "DocumentMoniker": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\Models\\VacancyItem.cs",
+              "RelativeDocumentMoniker": "CareerPortal\\Models\\VacancyItem.cs",
+              "ToolTip": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\Models\\VacancyItem.cs",
+              "RelativeToolTip": "CareerPortal\\Models\\VacancyItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:29:47.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VacancyTable.razor",
+              "DocumentMoniker": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\Components\\VacancyTable.razor",
+              "RelativeDocumentMoniker": "CareerPortal\\Components\\VacancyTable.razor",
+              "ToolTip": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\Components\\VacancyTable.razor",
+              "RelativeToolTip": "CareerPortal\\Components\\VacancyTable.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:29:09.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vacancies.razor",
+              "DocumentMoniker": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\Pages\\Vacancies.razor",
+              "RelativeDocumentMoniker": "CareerPortal\\Pages\\Vacancies.razor",
+              "ToolTip": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\Pages\\Vacancies.razor",
+              "RelativeToolTip": "CareerPortal\\Pages\\Vacancies.razor",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:28:21.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "CareerPortal\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\mahlo\\OneDrive\\Documents\\Source\\CareerPortal\\CareerPortal\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "CareerPortal\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwGIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-12T20:27:53.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
